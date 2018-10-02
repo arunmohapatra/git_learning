@@ -11,5 +11,6 @@ class Test{
 		
 		states.add(telagan state);
 		states.add(banaglore);
+		states.add(karnataka);
 	}
 }
