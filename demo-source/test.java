@@ -7,6 +7,9 @@ class Test{
 		
 		states.add(MP);
 		states.add(UP);
+		//newly added
 		
+		states.add(telagan state);
+		states.add(banaglore);
 	}
 }
