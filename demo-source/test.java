@@ -1,11 +1,12 @@
 
-
+import java.util.*;
 class Test{
 	
 	public static void main(String[] args){
+		List<String> states = new ArrayList<>();
 		
-		System.out.println("Hello");
-		System.out.println("Hello1");
-		System.out.println("Hello2");
+		states.add(MP);
+		states.add(UP);
+		
 	}
 }
